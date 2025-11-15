@@ -3,7 +3,7 @@ def get_password():
     answer = ""
     while answer != "yuh" :
         
-        answer = input("what's your password bih    ")
+        answer = input("what's your password?   ")
     
     return answer
     
